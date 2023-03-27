@@ -1,2 +1,2 @@
-# My-git-repository
+# Build-Your-Own-Static-Website
 MyRepo
