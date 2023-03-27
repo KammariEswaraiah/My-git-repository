@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.h-center {
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 20px;
+}
+
+.main-heading {
+    color: #025bf5;
+    background-color: pink;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.paragraph {
+    color: #f502a4;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.background {
+    background-image: url("https://wallpapers.com/images/hd/free-travel-wallpaper-background-nyis8xlyhu00y5ym-nyis8xlyhu00y5ym.webp");
+    height: 100vh;
+    background-size: cover;
+}
+
+.button {
+    width: 138px;
+    height: 36px;
+    background-color: #25b1cc;
+    border-radius: 20px;
+    border-width: 0px;
+    color: white;
+}
+
+.favourite-places-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    height: 125vh;
+    background-size: cover;
+    padding: 25px;
+}
+
+.favourit-places-heading-container {
+    color: white;
+    padding: 20px;
+    font-family: roboto;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.favourit-places-card-container {
+    background-color: pink;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 15px;
+    background-size: cover;
+}
+
+.favourite-places-heading {
+    color: purple;
+    font-family: roboto;
+    font-size: 24px;
+}
+
+.favourite-places-card-paragrap {
+    color: gray;
+    font-family: roboto;
+    font-size: 17px;
+}
+
+.favourite-place-card-image {
+    width: 100px;
+    height: 100px;
+}
+
+.detailed-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 105vh;
+    background-size: cover;
+    padding: 35px;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-size: 28px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    padding: 20px;
+}
+
+.detail-view-card-container {
+    background-color: pink;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 15px;
+}
+
+.detail-view-card-heading {
+    color: blue;
+    font-size: 23px;
+    font-family: "roboto";
+    font-weight: bold;
+}
+
+.detail-view-card-information {
+    color: gray;
+    font-size: 15px;
+    font-family: "roboto";
+}
+
+.detail-view-text-container {
+    padding: 15px;
+}
